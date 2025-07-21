@@ -23,12 +23,6 @@ Code Review and Security Analysis
 
 Using Bandit
 
-Project Structure
-
-Contributing
-
-License
-
 Project Overview
 The flask-todolist is a simple web application built with Flask that allows users to manage their to-do items. The core purpose of this repository is to serve as a practical environment for identifying and remediating common web application vulnerabilities, particularly those found in Python applications.
 
